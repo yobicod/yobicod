@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Visal Suwanarat</h1>
-<h3 align="center">A passionate fullstack developer from Thailand</h3>
+<h3 align="center">A Passionate Fullstack Engineer from Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yobicod&label=Profile%20views&color=0e75b6&style=flat" alt="yobicod" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yobicod" alt="yobicod" /></a> </p>
 
-- 🔭 I’m currently working at **Amity**
+- 🔭 I’m currently working at **Amity Solutions**
 
 - 💬 Ask me about **react, vue, express, nest, spring**
 
@@ -14,8 +14,6 @@
 - 🌱 I’m currently learning **Go, GraphQL, Docker, Kubernetes**
 
 - 📫 How to reach me **yobicod.4u@gmail.com**
-
-- ⚡ Fun fact **I really love cat but they doesn't love me back TT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
