@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **Amity Solutions**
 
-- 💬 Ask me about **react, vue, express, nest, spring**
+- 💬 Ask me about **react, next, vue, express, nest (typescript) and spring boot**
 
 - 👯 I’m looking to collaborate on **Amazing project that will change the world**
 
