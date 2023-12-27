@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Visal Suwanarat</h1>
 <h3 align="center">A Passionate Fullstack Engineer from Thailand</h3>
-![error](https://i.gifer.com/y7.gif)
+![ezgif com-optimize](https://github.com/yobicod/yobicod/assets/118372276/06f2065e-5d7f-4277-adf6-817eea267c27)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yobicod&label=Profile%20views&color=0e75b6&style=flat" alt="yobicod" /> </p>
 
