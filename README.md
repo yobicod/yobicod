@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **Amity Solutions**
 
-- 🌱 I’m currently learning **Go, Gin, Docker, Kubernetes**
+- 🌱 I’m currently learning **Go, Gin, Docker, Kubernetes, RabbitMQ, Kafka**
 
 - 💬 Ask me about **React, Next, Vue, Express, Nest, Spring**
 
