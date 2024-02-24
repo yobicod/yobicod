@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yobicod" alt="yobicod" /></a> </p>
 
-- 🔭 I’m currently working at **Amity Solutions**
-
 - 🌱 I’m currently learning **Go, Gin, Docker, Kubernetes, RabbitMQ, Kafka**
 
 - 💬 Ask me about **React, Next, Vue, Express, Nest, Spring**
