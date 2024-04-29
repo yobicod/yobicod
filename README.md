@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yobicod&label=Profile%20views&color=0e75b6&style=flat" alt="yobicod" /> </p>
-<h1 align="left">yobicod</h1>
-<h3 align="left">juggling pixels on the front, slinging code on the back, and cracking jokes in between.🧑🏻‍💻🇹🇭</h3>
+<h1 align="left">Hi I'm Visal aka yobicod Software Engineer from Thailand🇹🇭</h1>
+<h3 align="left">Juggling pixels on the front, Slinging code on the back, and Cracking jokes in between.🧑🏻‍💻🇹🇭</h3>
 
 
 
