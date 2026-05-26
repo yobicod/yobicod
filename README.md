@@ -18,13 +18,13 @@ Software Engineer from Thailand 🇹🇭 — building full-stack systems, shippi
 `React` `Next.js` `Svelte` `Tailwind CSS` `Redux`
 
 **Backend**
-`Node.js` `FastAPI` `Flask` `NestJS` `Express` `Hono`
+`Node.js` `FastAPI` `Flask` `NestJS` `Express` `Hono` `Gin` `Fiber`
 
 **Data & AI**
 `PyTorch` `TensorFlow` `scikit-learn` `Pandas` `OpenCV` `Pydantic AI`
 
 **Databases**
-`PostgreSQL` `MongoDB` `MySQL` `Redis` `MariaDB` `Elasticsearch`
+`PostgreSQL` `MongoDB` `MySQL` `Redis` `MariaDB` `Elasticsearch` `Cosmos`
 
 **Infrastructure & DevOps**
 `Docker` `Kubernetes` `AWS` `GCP` `Azure` `Terraform` `Nginx` `Jenkins` `Grafana`
