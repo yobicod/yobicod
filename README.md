@@ -12,13 +12,13 @@ Software Engineer from Thailand 🇹🇭 — building full-stack systems, shippi
 ## Tech Stack
 
 **Languages**
-`TypeScript` `Python` `Go` `JavaScript` `SQL` `Bash`
+`TypeScript` `JavaScript` `Python` `Go` `SQL` `Bash`
 
 **Frontend**
-`React` `Next.js` `Svelte` `Tailwind CSS` `Redux`
+`React` `Next.js` `Svelte` `Tailwind CSS` `Bootstrap` `Bulma` `Redux` `Zustand`
 
 **Backend**
-`Node.js` `FastAPI` `Flask` `NestJS` `Express` `Hono` `Gin` `Fiber`
+`Node.js` `NestJS` `Express` `Hono` `FastAPI` `Flask` `Gin` `Fiber`
 
 **Data & AI**
 `PyTorch` `TensorFlow` `scikit-learn` `Pandas` `OpenCV` `Pydantic AI`
