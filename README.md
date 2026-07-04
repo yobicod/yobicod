@@ -9,6 +9,9 @@
   <a href="https://github.com/yobicod">
     <img src="https://img.shields.io/badge/GitHub-yobicod-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
+  <a href="https://www.linkedin.com/in/visal-suwanarat-6175ab257">
+    <img src="https://img.shields.io/badge/LinkedIn-Visal%20Suwanarat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
 </div>
 
 ---
